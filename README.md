@@ -1,4 +1,4 @@
-image_upload_preview
+image_preview_widget
 ====================
 
-Preview before image upload. 上传图片前预览。
+Image preview widget. 图片上传预览控件。

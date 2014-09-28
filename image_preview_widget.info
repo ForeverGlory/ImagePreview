@@ -1,0 +1,7 @@
+name = Image Preview Widget
+description = Image upload preview widget
+package = Fields
+
+core = 7.x
+version = 7.x-1.0
+project = image_preview_widget
