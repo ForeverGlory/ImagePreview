@@ -1,4 +1,4 @@
-image_preview_widget
+image_preview
 ====================
 
-Image preview widget. 图片上传预览控件。
+HTML5 preview image. HTML5图片上传预览。

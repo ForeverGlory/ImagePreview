@@ -1,0 +1,15 @@
+<?php
+
+module_load_include('field_widget.inc', 'image_preview');
+
+function image_preview_theme() {
+  return array(
+    'image_preview' => array(
+      'render element' => 'element',
+    )
+  );
+}
+
+function image_preview_field_info_alter(&$info) {
+  
+}

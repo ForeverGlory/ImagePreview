@@ -1,5 +1,5 @@
 (function ($) {
-    Drupal.behaviors.image_preview_widget = {
+    Drupal.behaviors.image_preview = {
         attach: function (context) {
             $(".image-preview-upload [type=file]", context).on("change", function (e) {
                 var files = e.target.files || e.dataTransfer.files;

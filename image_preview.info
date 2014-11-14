@@ -1,0 +1,7 @@
+name = Image Preview
+description = HTML5 preview image
+package = Fields
+dependencies[] = image
+
+core = 7.x
+version = 7.x-1.0
